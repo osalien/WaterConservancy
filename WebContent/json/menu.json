@@ -1,0 +1,97 @@
+[{
+	"id":"1",
+	"name":"汛情信息",
+	"url":"page/xqxx/water.jsp",
+	"pic":"glyphicon glyphicon-tint",
+	"father":"汛情信息",
+	"fatherId":"1",
+	"sort":"1"
+},{
+	"id":"4",
+	"name":"概化图",
+	"url":"page/xqxx/gaihuatu.jsp",
+	"pic":"glyphicon glyphicon-adjust",
+	"father":"汛情信息",
+	"fatherId":"1",
+	"sort":"2"
+},{
+	"id":"5",
+	"name":"工程信息",
+	"url":"page/tcyl/project.jsp",
+	"pic":"glyphicon glyphicon-paperclip",
+	"father":"工程信息",
+	"fatherId":"2",
+	"sort":"1"
+},{
+	"id":"6",
+	"name":"防汛信息",
+	"url":"page/fxxx/flood.jsp",
+	"pic":"glyphicon glyphicon-tag",
+	"father":"防汛信息",
+	"fatherId":"3",
+	"sort":"1"
+},{
+	"id":"7",
+	"name":"防汛仓库",
+	"url":"page/fxxx/materials.jsp",
+	"pic":"glyphicon glyphicon-home",
+	"father":"防汛信息",
+	"fatherId":"3",
+	"sort":"2"
+},{
+	"id":"8",
+	"name":"卫星云图",
+	"url":"page/qxxx/cloud.jsp",
+	"pic":"glyphicon glyphicon-cloud",
+	"father":"气象信息",
+	"fatherId":"4",
+	"sort":"1"
+},{
+	"id":"9",
+	"name":"雷达拼图",
+	"url":"page/qxxx/radar.jsp",
+	"pic":"glyphicon glyphicon-picture",
+	"father":"气象信息",
+	"fatherId":"4",
+	"sort":"2"
+},{
+	"id":"10",
+	"name":"台风路径",
+	"url":"http://typhoon.weather.com.cn/gis/typhoon_full.shtml",
+	"pic":"glyphicon glyphicon-random",
+	"father":"气象信息",
+	"fatherId":"4",
+	"sort":"3"
+},{
+	"id":"10",
+	"name":"灾情事件",
+	"url":"page/zqtj/disaster_event.jsp",
+	"pic":"glyphicon glyphicon-certificate",
+	"father":"灾情统计",
+	"fatherId":"5",
+	"sort":"1"
+},{
+	"id":"11",
+	"name":"洪涝灾害",
+	"url":"page/zqtj/disaster_flood.jsp",
+	"pic":"glyphicon glyphicon-flash",
+	"father":"灾情统计",
+	"fatherId":"5",
+	"sort":"2"
+},{
+	"id":"12",
+	"name":"工情信息",
+	"url":"page/gqxx/gqinfo.jsp",
+	"pic":"glyphicon glyphicon-road",
+	"father":"工情信息",
+	"fatherId":"6",
+	"sort":"1"
+},{
+	"id":"13",
+	"name":"实时浏览",
+	"url":"page/spjk/video.jsp",
+	"pic":"glyphicon glyphicon-facetime-video",
+	"father":"视频信息",
+	"fatherId":"7",
+	"sort":"1"
+}]

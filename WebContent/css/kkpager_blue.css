@@ -1,0 +1,23 @@
+.kkpager{  clear:both;  color:#999;  padding:5px 0 5px 0;  font-size:13px;}
+.kkpager a{  float: left;  border: 1px solid #ccc;  display: inline;  width:24px;  height:24px;  line-height:24px;  text-align:center; margin-right: 5px;  border-radius: 3px;  -moz-border-radius: 3px;  -webkit-border-radius: 3px;  cursor: pointer;  background: #fff;  text-decoration:none;color:#999;}
+.kkpager a.prePage { background:#fff url(../img/left-arrow.jpg) no-repeat center;}
+.kkpager a.prePage:hover {background:#fff url(../img/left-arrow.jpg) no-repeat center;}
+.kkpager a.nextPage { background:#fff url(../img/right-arrow.jpg) no-repeat center;}
+.kkpager a.nextPage:hover {background:#fff url(../img/right-arrow.jpg) no-repeat center;}
+.kkpager span.disabled{  float: left;  display: inline;  width:24px;  height:24px;  line-height:24px;  text-align:center;  margin-right: 5px;border-radius: 3px;  -moz-border-radius: 3px;  -webkit-border-radius: 3px;  border:1px solid #DFDFDF;  background-color:#FFF;  color:#DFDFDF;}
+.kkpager span.disabledPre {background:#fff url(../img/left-arrow.jpg) no-repeat center;}
+.kkpager span.disabledPre {background:#fff url(../img/left-arrow.jpg) no-repeat center;}
+.kkpager span.disabledNext {background:#fff url(../img/right-arrow.jpg) no-repeat center;}
+.kkpager span.disabledNext {background:#fff url(../img/right-arrow.jpg) no-repeat center;}
+.kkpager span.curr{  float: left; border: 1px solid #ccc; display: inline;  height:24px;  width:24px;  line-height:24px;  text-align:center;  margin-right: 5px;border-radius:3px;  -moz-border-radius: 3px;  -webkit-border-radius: 3px;  background: #8f9bdf;  color: #fff;}
+.kkpager a:hover{background-color:#8f9bdf; color:#fff;}
+.kkpager span.normalsize{  }
+#kkpager_gopage_wrap{position:relative;  left:0;  top:0;}
+#kkpager_btn_go {width:36px;  height:26px;  border:0;  overflow:hidden;  line-height:140%;  padding:0;  margin:0;  text-align:center;  cursor:pointer;background-color: #fff;border: 1px solid #ccc; position:absolute;  left:70px; /*  top:-4px;  */ -moz-border-radius: 3px;  -webkit-border-radius: 3px;box-sizing: border-box;}
+#kkpager_btn_go_input{  width:36px;  height:24px;  color:#999;  text-align:center;  margin-left:1px;  margin-right:1px;  border:1px solid #DFDFDF;  position:relative;  -moz-border-radius: 3px;  -webkit-border-radius: 3px;  left:0;  top:0; outline:none;}
+#kkpager_btn_go_input.focus{border-color:#31ACE2;}
+.kkpager .pageBtnWrap{float:left;}
+.kkpager .infoTextAndGoPageBtnWrap{float:left;margin: 0 20px; }
+.kkpager .spanDot{float:left;  margin-right:5px; }
+.kkpager .currPageNum{color:#FD7F4D;}
+.kkpager .infoTextAndGoPageBtnWrap{}

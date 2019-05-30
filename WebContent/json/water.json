@@ -1,0 +1,9 @@
+[
+	{"id":"1","name":"淳溪镇","shuiwei":"37.3","longtitude" : "118.88815","latitude" : "31.339789","alertz":"35","time":"2017-08-22 8:00:00"},
+	{"id":"2","name":"桠溪镇","shuiwei":"17.7","longtitude" : "119.169284","latitude" : "31.37482","alertz":"20","time":"2017-08-22 8:00:00"},
+	{"id":"3","name":"漆桥镇","shuiwei":"23.8","longtitude" : "118.999684","latitude" : "31.389617","alertz":"25","time":"2017-08-22 8:00:00"},
+	{"id":"4","name":"固城镇","shuiwei":"12.3","longtitude" : "118.976687","latitude" : "31.310793","alertz":"15","time":"2017-08-22 8:00:00"},
+	{"id":"5","name":"阳江镇","shuiwei":"42.1","longtitude" : "118.82376","latitude" : "31.332387","alertz":"43","time":"2017-08-22 8:00:00"},
+	{"id":"6","name":"东坝镇","shuiwei":"18.9","longtitude" : "119.068674","latitude" : "31.301784","alertz":"19.5","time":"2017-08-22 8:00:00"},
+	{"id":"7","name":"古柏镇","shuiwei":"25.0","longtitude" : "118.934143","latitude" : "31.397508","alertz":"25","time":"2017-08-22 8:00:00"}
+]

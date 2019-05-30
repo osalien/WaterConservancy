@@ -1,0 +1,8 @@
+[
+	{"id":"1","gcmc":"江都第一抽水站","time":"2017-08-31","zgk" : "1","sysw" : "6.53","xysw":"1.25","zll":"0","jzh":"","longtitude" : "118.877","latitude" : "31.363","ypjd":"","dzdl":"","zzdy":"","yggl":"","wggl":"","zbh":"","kjzt":"","zbdl":"","zbdy":"","ygglz":"","wgglz":"","gclx":"泵站"},
+	{"id":"2","gcmc":"江都第二抽水站","time":"2017-08-31","zgk" : "1","sysw" : "6.53","xysw":"1.25","zll":"0","jzh":"","longtitude" : "119.035","latitude" : "31.399","ypjd":"","dzdl":"","zzdy":"","yggl":"","wggl":"","zbh":"","kjzt":"","zbdl":"","zbdy":"","ygglz":"","wgglz":"","gclx":"泵站"},
+	{"id":"3","gcmc":"江都第三抽水站","time":"2017-08-31","zgk" : "1","sysw" : "6.53","xysw":"1.25","zll":"0","jzh":"","longtitude" : "118.855","latitude" : "31.268","ypjd":"","dzdl":"","zzdy":"","yggl":"","wggl":"","zbh":"","kjzt":"","zbdl":"","zbdy":"","ygglz":"","wgglz":"","gclx":"泵站"},
+	{"id":"4","gcmc":"江都第四抽水站","time":"2017-08-31","zgk" : "1","sysw" : "6.53","xysw":"1.25","zll":"0","jzh":"","longtitude" : "118.900","latitude" : "31.395","ypjd":"","dzdl":"","zzdy":"","yggl":"","wggl":"","zbh":"","kjzt":"","zbdl":"","zbdy":"","ygglz":"","wgglz":"","gclx":"泵站"},
+	{"id":"5","gcmc":"江都西闸","time":"2017-08-31","zgk" : "1","sysw" : "6.53","xysw":"1.25","zll":"0","szkh":"009","longtitude" : "118.961","latitude" : "31.299","qbzt":"关闭","kg":"0","kll":"","gclx":"水闸"},
+	{"id":"6","gcmc":"江都东闸","time":"2017-08-31","zgk" : "1","sysw" : "6.53","xysw":"1.25","zll":"0","szkh":"008","longtitude" : "119.185","latitude" : "31.356","qbzt":"关闭","kg":"0","kll":"","gclx":"水闸"}
+]
